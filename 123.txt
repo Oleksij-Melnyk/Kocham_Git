@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 update numer 3
 
+=======
+kocham github
+>>>>>>> 171783228b6761661035943bb5817280cf7550f8
